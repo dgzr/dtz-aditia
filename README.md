@@ -1,5 +1,9 @@
 ## Hai Hai! , [Aditia'](https://github.com/dtz-aditia) Here👋
 
+<center>
+<img src="https://i.ibb.co/vJXyFYH/Anime-Chibi-Transparent-Backround-No-039.png" alt="chibi-gintama-image" width="50%"/>
+</center>
+
 ![](https://komarev.com/ghpvc/?username=dtz-aditia&color=red)
 
 Nico Nico knee..
